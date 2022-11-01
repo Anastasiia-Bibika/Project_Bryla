@@ -1,0 +1,40 @@
+.pop-up-artbox {
+  padding: 5px;
+  position: fixed;
+  top: 50px;
+  width: 480px;
+  background: #ffff;
+  box-shadow: 0 0 17px 0 #e7e7e7;
+  z-index: 10;
+}
+.pop-up-header,
+.pop-up-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.pop-up-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.favorite_btn {
+  padding: 8px;
+  color: rgb(36, 61, 85);
+}
+.Btn-close {
+  background: #2183a2;
+  padding: 8px;
+  color: #bbdefb;
+}
+.pop-up-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background: #39294baf;
+}
