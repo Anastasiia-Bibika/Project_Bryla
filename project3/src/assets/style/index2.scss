@@ -1,0 +1,26 @@
+.linkreg {
+  position: relative;
+  text-decoration: none;
+  display: inline;
+  margin-top: 10px;
+  bottom: 192px;
+  left: 40%;
+  margin: 10px;
+  color: #d8bfd8;
+  transition: 0.5s;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.head-box li {
+  list-style-type: none;
+  display: inline;
+}
+ul li .linkreg {
+  position: relative;
+  font-size: 20px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.linkreg:hover {
+  filter: drop-shadow(0 0 10px #aa4b6b);
+  color: #aa4b6b;
+}
