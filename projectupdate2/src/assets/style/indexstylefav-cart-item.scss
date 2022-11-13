@@ -1,0 +1,12 @@
+.v-FavotiteCartItem {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 4px transparent;
+  object-fit: cover;
+}
+.fav-card-img1 {
+  max-width: 65px;
+}

@@ -1,0 +1,320 @@
+.head-box {
+  background-color: black;
+  background-size: 300px;
+  margin-top: -18px;
+  height: 240px;
+  box-shadow: 0 0 5px 10px rgb(0, 0, 0);
+}
+.h1 {
+  margin: 0;
+  padding: 0;
+}
+.logo img {
+  margin-top: 30px;
+  width: 120px;
+  height: 110px;
+}
+.imageshome1 {
+  position: absolute;
+  width: 65%;
+  margin-top: 30px;
+  top: 45px;
+  margin-left: 25px;
+}
+.image4 img {
+  position: absolute;
+  width: 420px;
+  height: 410px;
+  left: 835px;
+  top: 640px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.6),
+    inset 0 0 20px rgba(255, 255, 255, 1);
+}
+.image5 img {
+  position: absolute;
+  width: 430px;
+  height: 425px;
+  left: 780px;
+  top: 675px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.6),
+    inset 0 0 20px rgba(255, 255, 255, 1);
+}
+.image6 img {
+  position: absolute;
+  width: 400px;
+  height: 425px;
+  left: 735px;
+  top: 710px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.6),
+    inset 0 0 20px rgba(255, 255, 255, 1);
+}
+.text-near-img2 {
+  position: relative;
+  font-size: 28px;
+  width: 200px;
+  height: 150px;
+  left: 20%;
+  top: -58%;
+  color: #d8bfd8;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.text1 {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  position: relative;
+  font-size: 22px;
+  text-align: right;
+  width: 500px;
+  height: 200px;
+  left: 10%;
+  bottom: 100px;
+  color: #cfb2cdea;
+}
+.text-near-img3 {
+  position: relative;
+  font-size: 28px;
+  width: 200px;
+  height: 150px;
+  left: 65%;
+  top: 35px;
+  color: #d8bfd8;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.text2 {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  position: relative;
+  font-size: 22px;
+  text-align: left;
+  width: 500px;
+  height: 140px;
+  left: 55%;
+  bottom: 70px;
+  color: #cfb2cdea;
+}
+.digital-ltext3 {
+  display: block;
+  position: relative;
+  top: 70px;
+  padding-bottom: 20px;
+}
+.footer-box {
+  position: absolute;
+  bottom: -245%;
+  margin-bottom: 0;
+  padding: 0;
+  background-color: black;
+  box-shadow: 0 0 5px 10px rgb(0, 0, 0);
+  height: 280px;
+  width: 100%;
+}
+.text-foot {
+  color: #c3a3dd;
+  font-family: Comic Sans MS, Comic Sans, cursive;
+  font-size: 19px;
+}
+.imageshome2 {
+  position: absolute;
+  width: 65%;
+  margin-top: 70px;
+  top: 75px;
+  margin-left: 25px;
+}
+.image7 img {
+  position: absolute;
+  width: 400px;
+  height: 425px;
+  left: 35px;
+  top: 1060px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.6),
+    inset 0 0 20px rgba(255, 255, 255, 1);
+}
+.image8 img {
+  position: absolute;
+  width: 400px;
+  height: 425px;
+  left: 75px;
+  top: 1110px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.6),
+    inset 0 0 20px rgba(255, 255, 255, 1);
+}
+.image9 img {
+  position: absolute;
+  width: 395px;
+  height: 430px;
+  left: 125px;
+  top: 1160px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.6),
+    inset 0 0 20px rgba(255, 255, 255, 1);
+}
+.container-society {
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 390px;
+  height: 160px;
+  left: 37%;
+}
+.social {
+  color: white;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.social-item {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 6px;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+.facebook {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 5px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+.facebook:hover {
+  border-color: #4682b4;
+  box-shadow: 0px 0px 25px #4682b4;
+  color: #4682b4;
+}
+.srcfacebook {
+  color: white;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+.srcfacebook:hover {
+  color: #4682b4;
+}
+.vk {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 5px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+.srcvk {
+  color: white;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+.vk:hover {
+  border-color: #3299dd;
+  box-shadow: 0px 0px 25px #3299dd;
+  color: #3299dd;
+}
+.srcvk:hover {
+  color: #3299dd;
+}
+.srcinstagram {
+  color: white;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+.srcinstagram:hover {
+  color: #ff1493;
+}
+.instagram {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 5px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+.instagram:hover {
+  border-color: #ff1493;
+  box-shadow: 0px 0px 25px #ff1493;
+  color: #ff1493;
+}
+.srctelegram {
+  color: white;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+.srctelegram:hover {
+  color: #12e3ff;
+}
+.telegram {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 5px solid white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  transition: all 0.3s;
+}
+.telegram:hover {
+  border-color: #12e3ff;
+  box-shadow: 0px 0px 25px #12e3ff;
+  color: #12e3ff;
+}
+.social-item a {
+  text-decoration: none;
+  color: none;
+}
+.arrowUp {
+  position: fixed;
+  bottom: 5%;
+  right: 3%;
+  color: rgba(255, 255, 255, 0.6);
+  width: 60px;
+  height: 60px;
+  background: linear-gradient(100deg, #f64f59 50%, #12c2e9 50%);
+  background-size: 300%;
+  -webkit-background-size: 300%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-size: 45px;
+  border-radius: 20%;
+  transition: 0.5s;
+  z-index: 1;
+}
+.arrowUp:hover {
+  background-position: 100% 0;
+}
